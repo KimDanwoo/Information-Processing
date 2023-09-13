@@ -38,7 +38,7 @@
 
 ## DCL(제어어)
 
-### 데이터베이스의 사용권한을 관리하는 GRANT, REVOKE, COMMIT, >?> > ROLLBACK
+### 데이터베이스의 사용권한을 관리하는 GRANT, REVOKE, COMMIT, ROLLBACK
 
 > 1. GRANT : 권한 부여
 >    - GRANT [권한 종류] ON [대상] TO [계정명] IDENTIFIED BY [암호] [WITH GRANT OPTION];
